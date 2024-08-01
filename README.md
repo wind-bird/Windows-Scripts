@@ -2,6 +2,6 @@
 
 Repo of QOL batch scripts that I use. Use is at your own discretion. 
 
-## VENV & DVENV
+### VENV & DVENV
 
-It's a quicker way of enabling/ disabiling the Python virtual enviornment. Add it to your PATH to launch from the command line.
+It's a quicker way of enabling/ disabling the Python virtual enviornment without having to type out the command (in other words, I wrote it because I'm lazy). Add it to your PATH to run from the command line.
